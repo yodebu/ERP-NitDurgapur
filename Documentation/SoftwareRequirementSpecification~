@@ -5,6 +5,8 @@
 3. HTML/CSS/JavaScript: will be required for designing and implementing the user interface/front-end.
 
 
+
+
 **Software Interface -
 
 1. Client on Internet -
@@ -17,11 +19,13 @@
  MySQL, Operating System (Linux)
 5. Development End
  LAMP stack(PHP, HTML+CSS+JavaScript, Apache, AJAX, Text Editor ), MySQL, OS (Linux), Apache(Web Server) 
+
+
  
 
 **Hardware Interface - 
 
-1. Minimum Requirements:
+ 1. Minimum Requirements:
 	Client Side
 		Internet Explorer - 6
 		Processor -  Intel Pentium III or AMD - 800 MHz
@@ -34,7 +38,7 @@
 		Disk Space - 3.5 GB
 
 
-2. Recommended Requirements:
+ 2. Recommended Requirements:
 	Client Side
 		Internet Explorer - 6
 		Processor -  Intel Pentium III or AMD - 800 MHz
@@ -47,16 +51,18 @@
 		Disk Space - 35 GB
 		
 		
+
 		
-3. Communication Interface: 
+**Communication Interface: 
 	
 	- Client (customer) on Internet will be using HTTP/HTTPS protocol.
 	- Client (system user) on Internet will be using HTTP/HTTPS protocol.
 	- Server (system user) will be using HTTP/HTTPS protocol.
 	
+
 	
 	
-4. Constraints
+**Constraints
 	- GUI is only in English.
 	- Login and password is used for the identification of users.
 	- Only registered students and faculties/staff will be authorized to use the services.
